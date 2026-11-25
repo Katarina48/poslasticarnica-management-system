@@ -1,0 +1,10 @@
+# NetBeans build i privatni fajlovi
+**/build/
+**/dist/
+**/nbproject/private/
+*.class
+*.log
+
+# Sistemski fajlovi
+.DS_Store
+Thumbs.db
